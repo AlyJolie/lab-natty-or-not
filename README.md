@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Vídeo: Investimentos com IAs: Transformando suas Finanças na CAIXA 🎥
+📒 Descrição
 
-## 🚀 Introdução
+Este vídeo de 1 minuto apresenta uma visão rápida sobre como as IAs Generativas estão revolucionando a área de investimentos na CAIXA.
+🤖 Tecnologias Utilizadas
 
-> Woooow! Look at this 👀
+    IA Generativa ChatGPT para roteirização do script e sugestão do título;
+    IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
+    
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🧐 Processo de Criação
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Usei o "ChatGPT" para escrever a roteirização do script do vídeo, bem como, para obter sugestões do título, daí fiz uma mescla com estas, sendo que escolhi o tema. Já no caso do "D-ID", este foi imprescidível para criar um avatar virtual, sendo que utilizei foto pessoal e voz já existente no arquivo, dando um ar realista ao vídeo. 
 
-### Objetivos
+🚀 Resultados
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+O vídeo é basicamente um cenário de um shopping, tendo em vista que foi utilizada uma foto. Contudo, o movimento criado na face/lábios da personagem (eu), deu um ar realístico criado pelo mundo das IAs Generativas, evidenciando seu grande potencial.
 
-### Template
+LINK PARA O VÍDEO AQUI
+https://studio.d-id.com/share?id=1c68804e7d8ec4aa3ba7787216c2bc10&utm_source=copy    
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+Este projeto foi uma experiência desafiadora e incrível, pois achei que não fosse conseguir. Mas, percebi que a IA D-ID é fácil de usar. Até pensei em clonar a minha própria voz, mas vi que é um comando não gratuito. Enfim, me diverti fazendo e me empolguei em ver o resultado final. Poderia ter melhorado o projeto, mas como primeira experiência me deu confiança para ir além. 
